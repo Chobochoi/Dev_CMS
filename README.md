@@ -2,9 +2,9 @@
 ## 프로젝트 진행 내역
 ---
 ## 목차
-[CPR 체험](#2405~2408-CPR-체험)
+[CPR 체험](#CPR-체험)
 
-[광주반도체 직업체험](#2403~2405-광주반도체-직업체험)
+[광주반도체 직업체험](#광주반도체-직업체험)
 
 [지게차 안전사고 예방체험](#2402~2403-부산항만연수원-지게차-안전사고-예방)
 
@@ -19,7 +19,7 @@
 [재난 안전 체험 - 지진](#2303~2305-재난-안전-체험-(지진발생-실내대비))
 
 ---
-## 2405~2408 CPR 체험
+## CPR 체험
 #### 1. 개발환경 : Unreal Engine 5.3 / Desktop i9-10900 RTX3070 RAM 32G
 #### 2.사용장비 : Vive XR Elite / Vive Ultimate Tracker
 #### 3.프로젝트 요약 : 실제 환경에서 응급상황 시 CPR 및 제세동기 사용을 직접 할 수 있도록 VR로 학습 및 체험.
@@ -70,7 +70,7 @@
 - Vive XR Elite 및 Vive Ultimate Tracker 사용방법
 [99_Vive XR Elite 사용 방법 정리.pdf](https://github.com/user-attachments/files/17533669/99_Vive.XR.Elite.pdf)
 
-## 2403~2405 광주반도체 직업체험
+## 광주반도체 직업체험
 #### 1.개발환경 : Unreal Engine 5.1 / Desktop i9-10900 RTX3070 RAM 32G 
 #### 2.사용장비 : Oculus Queset2
 #### 3.프로젝트 요약 : 반도채 8대 공정의 학습을 위한 VR 체험 콘텐츠. 
