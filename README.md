@@ -1,19 +1,27 @@
 # Samwoo
 ## 프로젝트 진행 내역
 ---
-[CPR 체험](#2405~2408 CPR 체험)
+### 목차
+1. [CPR 체험](#2405~2408-CPR-체험)
+2. [광주반도체 직업체험](#2403~2405-광주반도체-직업체험)
+3. [지게차 안전사고 예방체험](#2402~2403-부산항만연수원-지게차-안전사고-예방)
+4. [승강기 CBT](#2311~2401-거창-승강기-CBT-승강기)
+5. [폴리텍 꿈드림공작소](#2309~2312-폴리텍-꿈드림공작소)
+6. [재난 안전 체험 - 지진](#2307~2309-재난-안전-체험-(지진발생-즉시대피))
+7. [재난 안전 체험 - 태풍](#2305~2307-##난-안전-체험-(태풍발생-즉시대피))
+8. [재난 안전 체험 - 지진](#2303~2305-재난-안전-체험-(지진발생-실내대비))
 ---
-## 2405~2408 CPR 체험
-#### 개발환경 : Unreal Engine 5.3 / Desktop i9-10900 RTX3070 RAM 32G
-#### 사용장비 : Vive XR Elite / Vive Ultimate Tracker
-#### 프로젝트 요약 : 실제 환경에서 응급상황 시 CPR 및 제세동기 사용을 직접 할 수 있도록 VR로 학습 및 체험.
+### 2405~2408 CPR 체험
+#### 1. 개발환경 : Unreal Engine 5.3 / Desktop i9-10900 RTX3070 RAM 32G
+#### 2.사용장비 : Vive XR Elite / Vive Ultimate Tracker
+#### 3.프로젝트 요약 : 실제 환경에서 응급상황 시 CPR 및 제세동기 사용을 직접 할 수 있도록 VR로 학습 및 체험.
 ![ScreenShot00000](https://github.com/user-attachments/assets/dd99c676-6fd6-4bfb-bd7c-c99c029bd63a)
-#### 프로젝트 주요 기능 :
-- 리듬게임 형식의 3D Widget
+#### 4.프로젝트 주요 기능 :
+  * 리듬게임 형식의 3D Widget
 
 ![CPR_WidgetTest](https://github.com/user-attachments/assets/2eb102ef-4085-4e1a-93aa-0f026e164969)
 
-- 실제 애니의 위치가 변경되었을 시, VR 콘텐츠 상의 위치 재조정
+  * 실제 애니의 위치가 변경되었을 시, VR 콘텐츠 상의 위치 재조정
 ![image](https://github.com/user-attachments/assets/6690f086-6784-40d8-9df3-e7aa5da6a208)
 ![image](https://github.com/user-attachments/assets/03ffe16f-8131-46c3-929f-42742ce9611f)
 ![image](https://github.com/user-attachments/assets/ca36e453-a32f-4e6a-96fd-df90379b660b)
@@ -21,7 +29,7 @@
 ![image](https://github.com/user-attachments/assets/36bde1c3-414e-4dc9-8b71-c6812795bf2f)
 ![image](https://github.com/user-attachments/assets/21d4f5b0-250b-4dff-85ea-cb5b98dfd86b)
 
-#### 프로젝트 진행 :
+#### 5.프로젝트 진행 :
 - 24년 5월 4주차 : 기획서 작성 완료 및 환경 제작 완료
 - 24년 6월 1,2주차 : Vive XR Elite 플러그인 연동 및 Vive Ultimate Tracker 작동 테스트
 - 24년 6월 3주차 : Vive Ultimate Tracker 위치 조정 로직 개발 및 테스트
@@ -33,7 +41,8 @@
 - 24년 8월 2주차 : 3차 테스트 패키징 (고등학생 40명 및 전직원 테스트)
 - 24년 8월 3주차 : 4차 테스트 패키징 (현직 119 구급대원 테스트) 
 - 24년 8월 4주차 : 완료
-#### 프로젝트 이슈사항 및 해결방안 : 
+
+#### 6.프로젝트 이슈사항 및 해결방안 : 
 - Vive XR Elite와 Vive Ultimate Tracker의 호환은 5.2 버전이상에서의 베타버전으로만 제공하였기 때문에 최초 프로젝트 생성 시 5.1 버전으로 진행하여 5.3으로의 버전 업 문제가 있었다.
 - Vive Ultimate Tracker를 쓰는 가장 큰 이유는 Tracker 추적을 통한 CPR 애니 위치 연동이였는데, 위치값 보정 및 화면 재조정이 쉽지 않았다. (가장 오래 걸린 작업)
 - CPR 압박 과정을 리듬게임 형식으로 제작하게 되어 해당 판정에 대한 범위 및 레이턴시 설정하는데에 어려움이 있었다.
@@ -46,18 +55,17 @@
 - 일반인, CPR 자격증 보유자, 현직 119 구조대원 등의 직접적 체험 후 피드백 적용이 쉽지 않았다. 
   CPR에 관한 지식이 있고 CPR을 시행할 수 있는 전문가라고 하더라도 VR에 익숙치 않은 사람들이 다수였다. 해당 부분에 관하여 사전에 VR 숙련도에 관한 질문을 하고 Case를 분류하여 난이도 조절 및 피드백을 받는 방식으로 하였다.
 
-#### 기타 :
+#### 7. 기타 :
 - CPR 기본 사항
 [01_CPR 메인.pdf](https://github.com/user-attachments/files/17533674/01_CPR.pdf)
 
 - Vive XR Elite 및 Vive Ultimate Tracker 사용방법
 [99_Vive XR Elite 사용 방법 정리.pdf](https://github.com/user-attachments/files/17533669/99_Vive.XR.Elite.pdf)
 
-
 ### 2403~2405 광주반도체 직업체험
-#### 개발환경 : Unreal Engine 5.1 / Desktop i9-10900 RTX3070 RAM 32G 
-#### 사용장비 : Oculus Queset2
-#### 프로젝트 요약 : 반도채 8대 공정의 학습을 위한 VR 체험 콘텐츠. 
+#### 1.개발환경 : Unreal Engine 5.1 / Desktop i9-10900 RTX3070 RAM 32G 
+#### 2.사용장비 : Oculus Queset2
+#### 3.프로젝트 요약 : 반도채 8대 공정의 학습을 위한 VR 체험 콘텐츠. 
 #### 프로젝트 주요기능: 
 - 반도체 공정 학습을 위한 도구 사용을 현실과 동일 시 하여 학습효과 증대
 
@@ -123,11 +131,35 @@
 
 ### 2311~2401 거창 승강기 CBT 승강기
 #### 개발환경 : Unreal Engine 5.1 / Desktop i9-10900 RTX3070 RAM 32G 
-#### 사용장비 : Vive Pro / BaseStation (2EA) 
-#### 프로젝트 요약 :
+#### 사용장비 : Desktop i3-12100f RTX2080 RAM 16G 
+#### 프로젝트 요약 : 승강기 설치 및 교체 교육 및 실습을 위한 CBT 10종
 #### 프로젝트 주요기능: 
+- UI에서 장비 선택 시 마우스 포인터에 해당 장비 이미지 생성
+
+  ![Rope_mousepointer](https://github.com/user-attachments/assets/d020b7ca-1498-4f8d-bf12-2a0abec1a8c7)
+  
+- 선택한 장비의 잘못된 위치 클릭 시 오답 사운드 및 UI 표출
+
+![image](https://github.com/user-attachments/assets/f8c47b93-9d71-43f5-8cc7-2225c67e9890)
+  
+- 선택한 장비의 인터랙션 진행 시 아웃라인 하이라이트 생성
+
+  ![image](https://github.com/user-attachments/assets/274104b1-430e-40b3-948d-35806abd72f3)
+
+- 해당 절차에 나레이션 및 자막 재생
+- 나레이션 및 자막 한/영 설정 가능
+
+  ![image](https://github.com/user-attachments/assets/19c37973-6033-41ab-935d-7a67da7b7182)
+
+
+- 학습모드/영상모드 두 가지 방법으로 학습효과 증대
+1. 학습모드 : 사용자가 직접 공구와 부품을 선택하여 조립, 분해를 학습 할 수 있는 모드
+2. 영상모드 : 모든 절차가 자동으로 진행되며 학습을 위해 기초를 다질 수 있는 모드
+
+![image](https://github.com/user-attachments/assets/42fe0a11-105b-446a-9d95-ff91f09cf46b)
 #### 프로젝트 진행 : 
-#### 프로젝트 이슈사항 및 해결방안
+- 23년 11월 1주차 : 
+#### 프로젝트 이슈사항 및 해결방안 : 
 
 ### 2309~2312 폴리텍 꿈드림공작소 
 #### 개발환경 : Unreal Engine 5.1 / Desktop i9-10900 RTX3070 RAM 32G 
