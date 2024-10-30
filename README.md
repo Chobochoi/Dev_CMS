@@ -1,6 +1,9 @@
 # Samwoo
 ## 프로젝트 진행 내역
-### 2405~2408 CPR 체험
+---
+[CPR 체험](#2405~2408 CPR 체험)
+---
+## 2405~2408 CPR 체험
 #### 개발환경 : Unreal Engine 5.3 / Desktop i9-10900 RTX3070 RAM 32G
 #### 사용장비 : Vive XR Elite / Vive Ultimate Tracker
 #### 프로젝트 요약 : 실제 환경에서 응급상황 시 CPR 및 제세동기 사용을 직접 할 수 있도록 VR로 학습 및 체험.
