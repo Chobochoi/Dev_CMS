@@ -2,6 +2,10 @@
 ## 경력기술서
 ![image](https://github.com/user-attachments/assets/fb500b96-04cf-4e56-a14e-fb57213768a7)![image](https://github.com/user-attachments/assets/f473eefc-3e1e-42ae-bd23-1920a69c52eb)
 
+
+## OneDrive 시연영상 경로
+https://1drv.ms/f/c/4fc9c46aee2cb608/Ej_JjQ8lMRNOh_m4A-ARKmMBCZxQNFkPvfIEkhd_qgBh3w?e=rlM518
+
 ---
 ## 목차
 [CPR 체험](#CPR-체험)
