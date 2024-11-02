@@ -1,5 +1,7 @@
 # Samwoo
-## 프로젝트 진행 내역
+## 경력기술서
+![image](https://github.com/user-attachments/assets/fb500b96-04cf-4e56-a14e-fb57213768a7)![image](https://github.com/user-attachments/assets/f473eefc-3e1e-42ae-bd23-1920a69c52eb)
+
 ---
 ## 목차
 [CPR 체험](#CPR-체험)
