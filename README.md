@@ -4,7 +4,7 @@
 
 
 ## OneDrive 시연영상 경로
-https://1drv.ms/f/c/4fc9c46aee2cb608/Ej_JjQ8lMRNOh_m4A-ARKmMBCZxQNFkPvfIEkhd_qgBh3w?e=rlM518
+[시연영상 경로](https://1drv.ms/f/c/4fc9c46aee2cb608/Ej_JjQ8lMRNOh_m4A-ARKmMBCZxQNFkPvfIEkhd_qgBh3w?e=rlM518)
 
 ---
 ## 목차
@@ -33,6 +33,8 @@ https://1drv.ms/f/c/4fc9c46aee2cb608/Ej_JjQ8lMRNOh_m4A-ARKmMBCZxQNFkPvfIEkhd_qgB
 ![CPR_WidgetTest](https://github.com/user-attachments/assets/2eb102ef-4085-4e1a-93aa-0f026e164969)
 
   * 실제 애니의 위치가 변경되었을 시, VR 콘텐츠 상의 위치 재조정
+
+![Tracker_SetPosition_Short](https://github.com/user-attachments/assets/af03f913-3f28-4a89-8b8e-ee2fb85c1ace)
 ![image](https://github.com/user-attachments/assets/6690f086-6784-40d8-9df3-e7aa5da6a208)
 ![image](https://github.com/user-attachments/assets/03ffe16f-8131-46c3-929f-42742ce9611f)
 ![image](https://github.com/user-attachments/assets/ca36e453-a32f-4e6a-96fd-df90379b660b)
